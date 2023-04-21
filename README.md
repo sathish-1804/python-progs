@@ -1,1 +1,1 @@
-﻿# Consists of 50 level 1 programs
+﻿# Consists of 50 basic levels of python programs
